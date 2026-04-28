@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Kaleb Phillips
+Here are some recent projects I've worked on
+- 🛒 Full-Stack Bookstore Website 
+- 📱 Doctor Appointment Android App
+- 🌐 Full-Stack Personal Website
+- 🍿 Movie Search Web App
+- 🔒 Linux Kernel Module
 
 <!--
 **Kaleb-Phillips/Kaleb-Phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
