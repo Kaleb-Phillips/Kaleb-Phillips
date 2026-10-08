@@ -2,9 +2,9 @@
 Here are some recent projects I've worked on
 - 🛒 Full-Stack Bookstore Website 
 - 📱 Doctor Appointment Android App
-- 🌐 Full-Stack Personal Website
+- 🌐 [Full-Stack Personal Website](https://github.com/Kaleb-Phillips/Full-Stack-Personal-Website)
 - 🍿 Movie Search Web App
-- 🔒 Linux Kernel Module
+- 🔒 [Linux Kernel Module](https://github.com/Kaleb-Phillips/Linux-Kernel-Module)
 
 <!--
 **Kaleb-Phillips/Kaleb-Phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
